@@ -1,0 +1,1 @@
+# demp-build-static-file-docker
